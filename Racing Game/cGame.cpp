@@ -428,7 +428,7 @@ void cGame::update(double deltaTime)
 			score++;
 			sScore = gameTextList[1] + to_string(score);
 			theTextureMgr->deleteTexture("Score");
-		}1
+		}
 	
 }
 
